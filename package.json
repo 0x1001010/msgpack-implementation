@@ -1,0 +1,12 @@
+{
+  "name": "msgpack-implementation",
+  "version": "1.0.0",
+  "description": "Lightweight MessagePack encode/decode library for MooMoo packets.",
+  "main": "src/moopack.js",
+  "scripts": {
+    "test": "node test/roundtrip.test.js"
+  },
+  "keywords": ["msgpack", "moomoo", "serialization"],
+  "author": "",
+  "license": "MIT"
+}
